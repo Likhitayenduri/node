@@ -9,7 +9,7 @@ app.use('/abc', movies);
 
 
 app.get('/', (req,res) => {
-    res.send('hloooo we are team 4...huhu');
+    res.send('hlooooo hiiii team 4 here');
 })
 
 
